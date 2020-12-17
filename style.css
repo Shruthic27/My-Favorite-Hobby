@@ -1,0 +1,21 @@
+body{
+background: linear-gradient(Red ,Orange,Yellow,Green,Blue,Purple,Pink);
+    text-align: center;
+    
+}
+#Welcome{
+top: 20px;
+}
+img{ 
+width:300px;
+}
+.menu{
+    list-style: none;
+right: 30px;
+    top: 10px;
+    position:fixed;
+}
+.links{
+float: left;
+padding:10px;
+}
